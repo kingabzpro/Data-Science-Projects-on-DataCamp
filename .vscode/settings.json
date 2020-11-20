@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\abida\\anaconda3\\python.exe"
+    "python.pythonPath": "C:\\Users\\abida\\anaconda3\\python.exe",
+    "sqltools.connections": [],
+    "jupyter.jupyterServerType": "local"
 }
