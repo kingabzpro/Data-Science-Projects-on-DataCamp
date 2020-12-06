@@ -1,6 +1,10 @@
-# Data Camp Projects Collections
+# Personal DataCamp Projects Collections
 
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![python](https://img.shields.io/badge/python-3.8-red) ![R: v4.0 (shields.io)](https://img.shields.io/badge/R-v4.0-green)![DataCamp: Projects (shields.io)](https://img.shields.io/badge/DataCamp-Projects-brightgreen)
+
+
+
+![datacamp.png (1200×630)](https://www.datacamp.com/datacamp.png?v=20102020)
 
 ## Purpose of Repository 
 
@@ -16,3 +20,5 @@
 - I hope anyone who is looking to get started will find these exercises and projects to build the portfolio.
 
 **Do ⭐ the repository, if it helped you in anyway.**
+
+![TDF_motifscatterStream_110318NS.png (3362×779) (documentfoundation.org)](https://wiki.documentfoundation.org/images/5/57/TDF_motifscatterStream_110318NS.png)
