@@ -1,6 +1,6 @@
 # Personal DataCamp Projects Collections
 
-![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![python](https://img.shields.io/badge/python-3.8-red) ![R: v4.0 (shields.io)](https://img.shields.io/badge/R-v4.0-green)![DataCamp: Projects (shields.io)](https://img.shields.io/badge/DataCamp-Projects-brightgreen) 
+![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![python](https://img.shields.io/badge/python-3.8-red) ![R: v4.0 (shields.io)](https://img.shields.io/badge/R-v4.0-green) ![DataCamp: Projects (shields.io)](https://img.shields.io/badge/DataCamp-Projects-brightgreen) 
 
 
 
